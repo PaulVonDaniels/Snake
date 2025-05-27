@@ -1,4 +1,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 # 🐍 Классическая Змейка с Яблонями [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5hZ3Z0b2h3d3F5bWl5d2N0d2R4dW1zZzV6eHl3dGJ2Z2R5eGJ5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif" width="200" align="right" alt="Snake Game Demo">
