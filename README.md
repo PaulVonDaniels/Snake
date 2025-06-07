@@ -23,7 +23,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone [https://github.com/PaulVonDaniels/Snake](https://github.com/PaulVonDaniels)
+git clone https://github.com/PaulVonDaniels
 cd https://github.com/PaulVonDaniels/Snake/blob/main/README.md
 ```
 2. Скомпилируйте игру (требуется компилятор C):
